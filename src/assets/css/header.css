@@ -1,0 +1,17 @@
+.logoheader img{
+    width: 25%;
+    height: 25%;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.container-header{
+    max-width: 1000%;
+    margin: 0 auto;
+    background-color: cyan;
+}

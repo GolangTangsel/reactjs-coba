@@ -1,0 +1,24 @@
+@font-face {
+    font-family: TruenoSBd;
+    src: url(../fonts/trueno/TruenoSBd.otf);
+}
+
+@font-face {
+    font-family: TruenoRg;
+    src: url(../fonts/trueno/TruenoRg.otf);
+}
+
+.container-ourstory{
+    height: 1200px;
+}
+
+h1.kosong {
+    padding-top: 30px;
+    font-family: 'TruenoSBd';
+    font-size: 28px;
+}
+
+h5.isi {
+    font-family: 'TruenoRg';
+    font-size: 20px;
+}

@@ -1,0 +1,36 @@
+.container-footer {
+    background: black;
+}
+
+.logofooter {
+    margin-left: 40px;
+}
+
+.logofooter img {
+    width: 140px;
+}
+
+.container-footer h5{
+    color: #fff;
+}
+
+.container-footer p{
+    color: #fff;
+}
+
+.address-info{
+    margin-left: 100px;
+}
+
+.sos-med li img{
+    width: 20px;
+}
+
+.sos-med{
+    display: flex;
+    list-style: none;
+}
+
+.sos-med li{
+    margin: 0 24px;
+}

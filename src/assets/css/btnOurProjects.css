@@ -1,0 +1,9 @@
+button.btnOurProjects {
+    border-radius: 16px;
+    background-color: #2e7ad8;
+    margin-left: 120px;
+    border: none;
+    color: white;
+    margin-bottom: 6px;
+    padding: 7px;
+}
