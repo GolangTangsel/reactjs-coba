@@ -1,2 +1,2 @@
-# reactjs-coba-by-fikri
+# reactjs-coba
 Static page Golang-Tangsel
